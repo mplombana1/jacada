@@ -28,7 +28,7 @@ body {
   background: #5368e7;
   margin-right: 1em;
   padding: 3em;
-  border-radius: 5px;
+  border-radius: 10px;
   border: 2px solid #ffffff8c;
 }
 .h1 {
@@ -69,7 +69,10 @@ body {
   font-size: 20px;
 }
 .span span {
-    color: coral;
+  color: #fff;
+  background: coral;
+  border-radius: 5px;
+  padding: 0.5em 1em;
 }
 .info-container {
   height: auto;
